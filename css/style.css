@@ -8,7 +8,7 @@ body{
     font-style: normal;
     }
 .header{
-    width: 1680px;
+    width: 1440px;
     height: 110px;
     box-sizing: border-box;
     
@@ -49,14 +49,14 @@ body{
     justify-content	:flex-start; 
     }
 .home{
-    width: 1680px;
+    width: 1440px;
     height: 622px;
     display: block;
     box-sizing: border-box;
     margin:0 0 160px 0;
     }
 .img__1{
-    background: url("/images/photo-1494415859740-21e878dd929d.webp");
+    background: url("images/photo-1494415859740-21e878dd929d.webp");
     width: 100%;
     height: 100%;
     position:absolute;
@@ -89,7 +89,7 @@ body{
     z-index: 111;
     }
 .story{
-    width: 1680px;
+    width: 1440px;
     height: 632px;
     display: block;
     margin: 0 0 100px 0 ;
@@ -112,7 +112,7 @@ body{
     padding: 160px 0 0px 120px;
     }
 .img__2{
-    background: url("/images/photo-1507915135761-41a0a222c709.png");
+    background: url("images/photo-1507915135761-41a0a222c709.png");
     width: 680px;
     height: 470px;
     }
@@ -125,7 +125,7 @@ body{
     color: #000000;
     }
 .blog{
-    width: 1688px;
+    width: 1440px;
     height: 711px;
     display: block;
     display: flex;
@@ -165,7 +165,7 @@ body{
     margin:20px;
     }
 .img__3{
-    background: url("/images/photo-1455470956270-4cbb357f7052.png");
+    background: url("images/photo-1455470956270-4cbb357f7052.png");
     width: 325px;
     height: 216px;
     margin: 0px 20px 20px 20px;
@@ -188,7 +188,7 @@ body{
     margin:20px;
     }
 .img__4{
-    background: url("/images/photo-1442512595331-e89e73853f31.png");
+    background: url("images/photo-1442512595331-e89e73853f31.png");
     width: 325px;
     height: 216px;
     margin: 0px 20px 20px 20px;
@@ -211,7 +211,7 @@ body{
     margin: 20px;
     }
 .img__5{
-    background: url("/images/photo-1461988091159-192b6df7054f.png");
+    background: url("images/photo-1461988091159-192b6df7054f.png");
     width: 325px;
     height: 216px;
     margin: 0px 20px 20px 20px;
@@ -222,7 +222,7 @@ body{
     padding: 0 20px 20px 20px;
     }
 .subscribe{
-    width: 1687px;
+    width: 1440px;
     height: 337px;
     left: 0px;
     top: 2077px;
@@ -273,7 +273,7 @@ button{
     margin: 0px 640px 58px 780px;
 }
 .footer__block{
-    width: 1688px;
+    width: 1440px;
     height: 72px;
     }
 .footer{
