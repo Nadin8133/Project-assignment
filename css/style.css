@@ -8,7 +8,7 @@ body{
     font-style: normal;
     }
 .header{
-    width: 1680px;
+    width: 1600px;
     height: 110px;
     box-sizing: border-box;
     
@@ -140,7 +140,7 @@ body{
     top: 210%;
     left: 47%;
     padding:0 0 100px 0 ;
-    margin: 200px 0 60px 0;
+    margin: 280px 0 60px 0;
     font-weight: 500;
     font-size: 36px;
     color: #000000;
